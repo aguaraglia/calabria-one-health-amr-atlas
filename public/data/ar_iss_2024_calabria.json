@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "edition": "calabria_amr_atlas",
+  "source_id": "ar_iss_2024_calabria",
+  "period": 2024,
+  "geography": "Calabria",
+  "scope": "isolati da sangue e liquor; sorveglianza AR-ISS",
+  "coverage": {
+    "value_percent": 42.7,
+    "denominator": "giornate di degenza per ricoveri ordinari per acuti; SDO dimessi 2023",
+    "limitations": "non corregge per gravità; considera i laboratori che hanno inviato emocolture e/o liquor; nel 2024 i referenti calabresi elencati sono 4 laboratori (AO Cosenza - PO Annunziata; AOU R. Dulbecco - PO Mater Domini e PO Pugliese, Catanzaro; GOM Bianchi-Melacrino-Morelli, Reggio Calabria); serie con dati dal 2017"
+  },
+  "indicators": [
+    {
+      "code": "MRSA",
+      "pathogen": "Staphylococcus aureus",
+      "resistance": "meticillina",
+      "isolates": 217,
+      "resistant": 59,
+      "percent": 27.2,
+      "ci95": "21.4-33.6"
+    },
+    {
+      "code": "VRE-faecium",
+      "pathogen": "Enterococcus faecium",
+      "resistance": "vancomicina",
+      "isolates": 104,
+      "resistant": 41,
+      "percent": 39.4,
+      "ci95": "30.0-49.5"
+    },
+    {
+      "code": "CREC",
+      "pathogen": "Escherichia coli",
+      "resistance": "cefalosporine di terza generazione",
+      "isolates": 302,
+      "resistant": 125,
+      "percent": 41.4,
+      "ci95": "35.8-47.2"
+    },
+    {
+      "code": "CRKP",
+      "pathogen": "Klebsiella pneumoniae",
+      "resistance": "carbapenemi",
+      "isolates": 287,
+      "resistant": 125,
+      "percent": 43.6,
+      "ci95": "37.7-49.5"
+    },
+    {
+      "code": "CRPA",
+      "pathogen": "Pseudomonas aeruginosa",
+      "resistance": "carbapenemi",
+      "isolates": 106,
+      "resistant": 20,
+      "percent": 18.9,
+      "ci95": "11.9-27.6"
+    },
+    {
+      "code": "CRAS",
+      "pathogen": "Acinetobacter species",
+      "resistance": "carbapenemi",
+      "isolates": 63,
+      "resistant": 57,
+      "percent": 90.5,
+      "ci95": "80.4-96.4"
+    }
+  ],
+  "trend_note": "Serie 2017-2024 nell'Appendice A: MRSA 37,1% (2017) -> 27,2% (2024); VRE-faecium 23,1% (2017, 13 isolati) -> 39,4% (2024); CREC 37,1% (2017) -> 41,4% (2024); CRKP 66,0% (2017) -> 43,6% (2024); CRPA 52,0% (2017) -> 18,9% (2024); CRAS 100% (2017) -> 90,5% (2024). Numerosità piccole (63-302 isolati nel 2024) e rete di soli 4 laboratori: le variazioni riflettono anche la composizione della rete.",
+  "license": "CC BY 4.0 (Note legali ISS, valide anche per EpiCentro: https://www.iss.it/contatti ; https://www.epicentro.iss.it/chi-siamo/disclaimer)",
+  "source": {
+    "title": "AR-ISS: sorveglianza nazionale dell Antibiotico-Resistenza. Dati 2024",
+    "report": "RIS-5/2025",
+    "table": "Tabella 1 (copertura, p. 12) e Appendice A, Regione Calabria (p. 41 a stampa, p. 49 del PDF); referenti dei laboratori p. 2",
+    "url": "https://www.epicentro.iss.it/antibiotico-resistenza/ar-iss/RIS-5_2025.pdf",
+    "acquired_at": "2026-11-20",
+    "sha256": "50174DC846E19C6EAD2EA4D55982FC098487251A5EDAB8D484D6101B31482F0F"
+  }
+}

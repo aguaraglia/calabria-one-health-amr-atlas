@@ -1,0 +1,275 @@
+{
+ "Policlinico Mater Domini, Catanzaro": [],
+ "Azienda Ospedaliero Universitaria Mater Domini Catanzaro": [],
+ "Mater Domini Germaneto": [
+  {
+   "place_id": 56260270,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 367566563,
+   "lat": "38.8962096",
+   "lon": "16.5615347",
+   "category": "highway",
+   "type": "motorway_junction",
+   "place_rank": 30,
+   "importance": 5.670023651479389e-05,
+   "addresstype": "highway",
+   "name": "Germaneto",
+   "display_name": "Germaneto, Strada statale 280 dei Due Mari, Sant'Antonio, Catanzaro, Calabria, 88100, Italia",
+   "boundingbox": [
+    "38.8961596",
+    "38.8962596",
+    "16.5614847",
+    "16.5615847"
+   ]
+  }
+ ],
+ "Policlinico Universitario Germaneto Catanzaro": [],
+ "ospedale Germaneto Catanzaro": [],
+ "Mater Domini, Catanzaro": [
+  {
+   "place_id": 56575959,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 4549828119,
+   "lat": "38.9162483",
+   "lon": "16.5683647",
+   "category": "place",
+   "type": "suburb",
+   "place_rank": 19,
+   "importance": 0.14673255893797202,
+   "addresstype": "suburb",
+   "name": "Mater Domini",
+   "display_name": "Mater Domini, Catanzaro, Calabria, 88100, Italia",
+   "boundingbox": [
+    "38.8962483",
+    "38.9362483",
+    "16.5483647",
+    "16.5883647"
+   ]
+  },
+  {
+   "place_id": 56343626,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 293775734,
+   "lat": "38.9164689",
+   "lon": "16.5679315",
+   "category": "amenity",
+   "type": "place_of_worship",
+   "place_rank": 30,
+   "importance": 6.589227130536382e-05,
+   "addresstype": "amenity",
+   "name": "Mater Domini",
+   "display_name": "Mater Domini, Via Girolamo De Rada, Mater Domini, Catanzaro, Calabria, 88100, Italia",
+   "boundingbox": [
+    "38.9162664",
+    "38.9166838",
+    "16.5677353",
+    "16.5681216"
+   ]
+  },
+  {
+   "place_id": 56633239,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 171121319,
+   "lat": "38.9171918",
+   "lon": "16.5688823",
+   "category": "amenity",
+   "type": "place_of_worship",
+   "place_rank": 30,
+   "importance": 6.589227130536382e-05,
+   "addresstype": "amenity",
+   "name": "Mater Domini",
+   "display_name": "Mater Domini, Via Tommaso Campanella, Mater Domini, Catanzaro, Calabria, 88100, Italia",
+   "boundingbox": [
+    "38.9171430",
+    "38.9172399",
+    "16.5687897",
+    "16.5689749"
+   ]
+  }
+ ],
+ "Viale Europa, Germaneto, Catanzaro": [],
+ "Università Magna Graecia Catanzaro": [
+  {
+   "place_id": 56610211,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 4004532639,
+   "lat": "38.9225427",
+   "lon": "16.5838888",
+   "category": "amenity",
+   "type": "library",
+   "place_rank": 30,
+   "importance": 6.589227130536382e-05,
+   "addresstype": "amenity",
+   "name": "Biblioteca Settore biomedico farmaceutico dell'Università degli studi di Catanzaro Magna Graecia",
+   "display_name": "Biblioteca Settore biomedico farmaceutico dell'Università degli studi di Catanzaro Magna Graecia, Via Monsignor Fiorentini, Pontepiccolo, Catanzaro, Calabria, 88100, Italia",
+   "boundingbox": [
+    "38.9224927",
+    "38.9225927",
+    "16.5838388",
+    "16.5839388"
+   ]
+  },
+  {
+   "place_id": 56099775,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 4004532638,
+   "lat": "38.9224071",
+   "lon": "16.5839371",
+   "category": "amenity",
+   "type": "library",
+   "place_rank": 30,
+   "importance": 6.589227130536382e-05,
+   "addresstype": "amenity",
+   "name": "Biblioteca Settore Economico Giuridico Storico Sociale dell'Università degli studi di Catanzaro Magna Graecia",
+   "display_name": "Biblioteca Settore Economico Giuridico Storico Sociale dell'Università degli studi di Catanzaro Magna Graecia, Via Monsignor Fiorentini, Pontepiccolo, Catanzaro, Calabria, 88100, Italia",
+   "boundingbox": [
+    "38.9223571",
+    "38.9224571",
+    "16.5838871",
+    "16.5839871"
+   ]
+  },
+  {
+   "place_id": 56271989,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 4004532679,
+   "lat": "38.8275293",
+   "lon": "16.5096055",
+   "category": "amenity",
+   "type": "library",
+   "place_rank": 30,
+   "importance": 4.395590142667304e-05,
+   "addresstype": "amenity",
+   "name": "Biblioteca della Facoltà di farmacia dell'Università degli studi di Catanzaro Magna Graecia",
+   "display_name": "Biblioteca della Facoltà di farmacia dell'Università degli studi di Catanzaro Magna Graecia, Complesso N. Barbieri, Borgia, Catanzaro, Calabria, 88021, Italia",
+   "boundingbox": [
+    "38.8274793",
+    "38.8275793",
+    "16.5095555",
+    "16.5096555"
+   ]
+  }
+ ],
+ "Campus Salvatore Venuta Catanzaro": [],
+ "hospital Germaneto": [],
+ "Policlinico Universitario Catanzaro": [],
+ "Azienda Ospedaliero-Universitaria Renato Dulbecco": [],
+ "amenity=hospital,city=Catanzaro": [
+  {
+   "place_id": 56030051,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 783381691,
+   "lat": "38.9271164",
+   "lon": "16.5800805",
+   "category": "amenity",
+   "type": "hospital",
+   "place_rank": 30,
+   "importance": 6.589227130536382e-05,
+   "addresstype": "amenity",
+   "name": "Sant'Anna Hospital",
+   "display_name": "Sant'Anna Hospital, 111, Viale Papa Pio X, Pontepiccolo, Catanzaro, Calabria, 88100, Italia",
+   "boundingbox": [
+    "38.9267773",
+    "38.9274471",
+    "16.5797666",
+    "16.5805230"
+   ]
+  },
+  {
+   "place_id": 56066454,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 3613015058,
+   "lat": "38.7109796",
+   "lon": "16.4055942",
+   "category": "amenity",
+   "type": "social_facility",
+   "place_rank": 30,
+   "importance": 5.627603570606573e-05,
+   "addresstype": "amenity",
+   "name": "San Vito Hospital",
+   "display_name": "San Vito Hospital, Villa comunale, Jannuzzo, San Vito sullo Ionio, Catanzaro, Calabria, 88067, Italia",
+   "boundingbox": [
+    "38.7109296",
+    "38.7110296",
+    "16.4055442",
+    "16.4056442"
+   ]
+  }
+ ],
+ "Campus universitario Germaneto": [],
+ "Viale Europa, Catanzaro": [
+  {
+   "place_id": 56461163,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 1757587974,
+   "lat": "38.8654911",
+   "lon": "16.5629858",
+   "category": "railway",
+   "type": "station",
+   "place_rank": 30,
+   "importance": 0.18157831638402872,
+   "addresstype": "railway",
+   "name": "Catanzaro",
+   "display_name": "Catanzaro, Viale Europa, Catanzaro, Calabria, 88100, Italia",
+   "boundingbox": [
+    "38.8604911",
+    "38.8704911",
+    "16.5579858",
+    "16.5679858"
+   ]
+  },
+  {
+   "place_id": 56693573,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 32540518,
+   "lat": "38.8306639",
+   "lon": "16.5970032",
+   "category": "highway",
+   "type": "tertiary",
+   "place_rank": 26,
+   "importance": 0.05339922560463871,
+   "addresstype": "tertiary",
+   "name": "Viale Europa",
+   "display_name": "Viale Europa, Catanzaro Lido, Catanzaro, Calabria, 88100, Italia",
+   "boundingbox": [
+    "38.8244139",
+    "38.8352916",
+    "16.5912191",
+    "16.6047298"
+   ]
+  },
+  {
+   "place_id": 56610564,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 368640869,
+   "lat": "38.8788143",
+   "lon": "16.5580234",
+   "category": "highway",
+   "type": "secondary",
+   "place_rank": 26,
+   "importance": 0.05339922560463871,
+   "addresstype": "secondary",
+   "name": "Viale Europa",
+   "display_name": "Viale Europa, Catanzaro, Calabria, 88100, Italia",
+   "boundingbox": [
+    "38.8710537",
+    "38.8874701",
+    "16.5554701",
+    "16.5619391"
+   ]
+  }
+ ],
+ "Università Magna Graecia, Viale Europa": []
+}

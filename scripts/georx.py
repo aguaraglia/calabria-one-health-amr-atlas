@@ -1,0 +1,4 @@
+import re
+GEO=re.compile(r"\bCalabria\b|\bCalabrian?\b|\bCatanzaro\b|\bCosenza\b|Reggio (di )?Calabria|\bCrotone\b|Vibo Valentia|\bVibo\b|Lamezia|\bRende\b|Arcavacata|Germaneto|\bLocri\b|(?-i:\bPalmi\b)|\bSibari\b|Sybaris|Corigliano|\bRossano\b|Castrovillari|\bScilla\b|\bTropea\b|Aspromonte|(?-i:\bSila\b)(?! ?\d)|\bPollino\b|\bCrati\b|Gioia Tauro|\bSiderno\b|Capo Rizzuto|Soverato|Mater Domini|Pugliese[- ]Ciaccio|(Renato|R\.) Dulbecco|Dulbecco (University|Hospital|Teaching)|Magna Gr(a)?ecia|Melacrino|Bianchi[- ]Melacrino[- ]Morelli|Grande Ospedale Metropolitano|Annunziata (Hospital|hospital)|Ospedale dell'Annunziata|Strait of Messina|Stretto di Messina",re.I)
+WILD=re.compile(r"south(ern)?[- ]Italy|Ionian|Tyrrhenian",re.I)
+AFF=re.compile(r"Calabria|Catanzaro|Cosenza|Rende|Arcavacata|Crotone|Vibo|Lamezia|Germaneto|Locri",re.I)
